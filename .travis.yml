@@ -1,5 +1,5 @@
 sudo: false
-language: haskell
+language: c
 
 before_install:
 - mkdir -p ~/.local/bin
